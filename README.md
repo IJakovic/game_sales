@@ -12,5 +12,5 @@
 - Queue
 #### How to use:
 1. You need to have Visual Studio latest version and the workload called "Desktop development with C++"
-2. Open the solution file `005_MUSIC.sln`
+2. Open the solution file `Game_Sales.sln`
 3. Start without debugging (ctrl + F5)
